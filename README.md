@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<a href="https://www.udemy.com/course/kotlin-dari-nol-sampai-mahir-membuat-aplikasi-e-commerce/" target="_blank"> <img src="https://user-images.githubusercontent.com/33416633/115434912-741cac00-a233-11eb-9afe-5549cb531071.png" alt="Kotlin" height="100" style="vertical-align:top; margin:4px"> </a>
+<a href="https://www.udemy.com/course/kursus-lengkap-java-dan-android-studio-build-9-apps/" target="_blank"> <img src="https://user-images.githubusercontent.com/33416633/115435393-fb6a1f80-a233-11eb-86aa-9d46f1bc091e.png" alt="Java" height="100" style="vertical-align:top; margin:4px"> </a>
+ <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/33416633/115435593-3409f900-a234-11eb-97aa-5e58c4770765.png" alt="Flutter" height="100" style="vertical-align:top; margin:4px"> </a>
+ <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/33416633/115435760-64519780-a234-11eb-8530-6131b11b0e0f.png" alt="PHP" height="100" style="vertical-align:top; margin:4px"> </a>
 </p>
