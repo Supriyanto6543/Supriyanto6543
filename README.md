@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an new Startup
+<ul>
+ <li>🔭 I’m currently working on an new Startup</li></ul>
 - 🌱 I’m currently learning 3d Game Development
 - 👯 I’m looking to collaborate on open source project
 - 🤔 I’m looking for help with ...
