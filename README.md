@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Home
+- 🔭 I’m currently working from Home
 - 🌱 I’m currently learning 3d Game Development
 - 👯 I’m looking to collaborate to build start up and making online game multiplayer
 - 🤔 I’m looking for help with my skill as programmer
@@ -35,3 +35,6 @@
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/33416633/115435593-3409f900-a234-11eb-97aa-5e58c4770765.png" alt="Flutter" height="50" style="vertical-align:top; margin:4px"> </a>
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/33416633/115435760-64519780-a234-11eb-8530-6131b11b0e0f.png" alt="PHP" height="50" style="vertical-align:top; margin:4px"> </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
