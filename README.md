@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with my skill as programmer
 - 💬 Ask me about Mobile and Game Development
 - 📫 How to reach me: <a href="http://wa.me/+6285695525342">Whats App Me</a><br />
-![](https://visitor-badge.laobi.icu/badge?page_id=Supriyanto6543)
+![](https://visitor-badge.laobi.icu/badge?page_id=Supriyanto6543.Supriyanto6543)
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
