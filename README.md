@@ -16,7 +16,7 @@
 - ⚡ Fun fact: ... 
 -->
 
-## ✉️ Find me on:
+### ✉️ Find me on:
 
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 <br />
 
-## 🧰 Languages and Tools:
+### 🧰 Languages and Tools:
 <p align="center">
 <a href="https://www.udemy.com/course/kotlin-dari-nol-sampai-mahir-membuat-aplikasi-e-commerce/" target="_blank"> <img src="https://user-images.githubusercontent.com/33416633/115434912-741cac00-a233-11eb-9afe-5549cb531071.png" alt="Kotlin" height="50" style="vertical-align:top; margin:4px"> </a>
 <a href="https://www.udemy.com/course/kursus-lengkap-java-dan-android-studio-build-9-apps/" target="_blank"> <img src="https://user-images.githubusercontent.com/33416633/115435393-fb6a1f80-a233-11eb-86aa-9d46f1bc091e.png" alt="Java" height="50" style="vertical-align:top; margin:4px"> </a>
@@ -36,5 +36,6 @@
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/33416633/115435760-64519780-a234-11eb-8530-6131b11b0e0f.png" alt="PHP" height="50" style="vertical-align:top; margin:4px"> </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supriyanto6543&theme=tokyonight)
+### My Github Stats: 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supriyanto6543&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
 
