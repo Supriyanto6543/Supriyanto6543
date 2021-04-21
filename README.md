@@ -1,18 +1,19 @@
 #### Hi there 👋 I'm Supriyanto, but you can call me Supri
 
 <!--
-**Supriyanto6543/Supriyanto6543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Supriyanto6543/Supriyanto6543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
-🔭 I’m currently working on an new Startup
+- 🔭 I’m currently working on Home
 - 🌱 I’m currently learning 3d Game Development
-- 👯 I’m looking to collaborate on open source project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate to build start up and making online game multiplayer
+- 🤔 I’m looking for help with my skill as programmer
+- 💬 Ask me about Mobile and Game Development
+- 📫 How to reach me: <a href="http://wa.me/+6285695525342">Whats App Me</a>
+<!--
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 -->
 
 ## ✉️ Find me on:
