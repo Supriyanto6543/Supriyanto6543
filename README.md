@@ -29,7 +29,7 @@
 
 <br />
 
-### 🧰 Languages and Tools:
+### 🧰 Languages:
 <p align="center">
 <a href="https://www.udemy.com/course/kotlin-dari-nol-sampai-mahir-membuat-aplikasi-e-commerce/" target="_blank"> <img src="https://user-images.githubusercontent.com/33416633/115434912-741cac00-a233-11eb-9afe-5549cb531071.png" alt="Kotlin" height="50" style="vertical-align:top; margin:4px"> </a>
 <a href="https://www.udemy.com/course/kursus-lengkap-java-dan-android-studio-build-9-apps/" target="_blank"> <img src="https://user-images.githubusercontent.com/33416633/115435393-fb6a1f80-a233-11eb-86aa-9d46f1bc091e.png" alt="Java" height="50" style="vertical-align:top; margin:4px"> </a>
