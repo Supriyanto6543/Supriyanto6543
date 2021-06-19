@@ -24,7 +24,7 @@
  <a href="https://www.udemy.com/user/power-render/" target="_blank"> <img src="https://user-images.githubusercontent.com/33416633/115433385-b513c100-a231-11eb-8bf3-8035320ed303.png" alt="Udemy" height="70" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.youtube.com/channel/UCftt1hli3mckK62d3IinrwQ" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/33416633/115433910-4420d900-a232-11eb-8e5b-18a5bf1e163b.png" alt="Facebook" height="70" style="vertical-align:top; margin:4px"></a>
  <a href="http://www.linkedin.com/in/supri-yanto-6569a011a/"> <img src="https://user-images.githubusercontent.com/33416633/115434122-864a1a80-a232-11eb-9e99-56b7513ac3c2.png" alt="Linkedin" height="70" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:supriyanto6543@gmail.com"> <img src="https://user-images.githubusercontent.com/33416633/115434591-125c4200-a233-11eb-85af-5ce6c46fe7b1.png" alt="Linkedin" height="70" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:powerrender73@gmail.com"> <img src="https://user-images.githubusercontent.com/33416633/115434591-125c4200-a233-11eb-85af-5ce6c46fe7b1.png" alt="Linkedin" height="70" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
