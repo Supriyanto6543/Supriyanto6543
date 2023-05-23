@@ -3,6 +3,7 @@
 <br> -->
 
 ![s](https://visitor-badge.laobi.icu/badge?page_id=Supriyanto6543.Supriyanto6543)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Supriyanto6543.Supriyanto6543" alt="playstore" style="width: 5%;" border="0">
 <!-- <br>
 <h2>Contact or follow me on</h2>
 <a href="mailto:powerrender73@gmail.com" target="_blank"><img src="https://i.ibb.co/WpF812R/google.png" alt="edumy" style="width: 20%;" border="0"></a>
